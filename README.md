@@ -5,4 +5,4 @@ In this project I've gained a lot of experience using CSS:
 - Animations.
 
 # DEMO Link
-[DEMO](https://react-tailwind-nike-store.vercel.app/)
+[DEMO](https://css-transformations-animations.vercel.app/)
