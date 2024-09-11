@@ -1,0 +1,60 @@
+html {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    /* background-color: bisque; */
+    background-image: url('./bgc.avif');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.lato-regular {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+.header {
+    display: block;
+    text-align: center;
+    color: cadetblue;
+}
+
+.list {
+    list-style: none;
+    padding-left: 15px;
+    /* display: none; */
+}
+
+.list__item {
+    text-decoration: none;
+    color: black;
+}
+
+.list__link {
+    text-decoration: none;
+    color: rgb(28, 20, 14);
+}
+
+.list__link:hover {
+    color:rgb(107, 15, 228); 
+    font-size: larger;
+    /* text-decoration: underline; */
+    transition: all 500ms;
+}
+
+.category {
+    padding-inline: 5px;
+}
+
+.category__list {
+    padding-left: 0;
+}
+
+ol {
+    list-style: none;
+}
